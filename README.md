@@ -1,3 +1,4 @@
+# Statistical Data Science
 Statistical data analysis and modeling, 
 from exploratory analysis to regression and ANOVA. Includes methods for binary, count, time series, and longitudinal data, with emphasis on estimation, hypothesis testing, and statistical inference.
 
